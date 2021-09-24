@@ -4,7 +4,7 @@
   "description": "Scraping images from google search",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scrape": "node index"
   },
   "keywords": [
     "google-scraper",
